@@ -20,7 +20,7 @@ export default function Home() {
           </div>
 
           <h2 className="font-[family-name:var(--font-bebas)] text-4xl md:text-6xl mb-6 text-balance">
-            Roštilj koji udara pravo
+            Roštilj koji udara pravo uuuu
           </h2>
 
           <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-3xl mx-auto leading-relaxed">
