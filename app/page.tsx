@@ -24,7 +24,7 @@ export default function Home() {
           </h2>
 
           <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-3xl mx-auto leading-relaxed">
-            Pljeskavice • Ćevapi • Kobasice • Punjeno meso
+            Pljekeee • Ćevapi • Kobasice • Punjeno mesiste
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
