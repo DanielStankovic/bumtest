@@ -30,7 +30,7 @@ export default function Home() {
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <Button
               size="lg"
-              className="bg-primary hover:bg-primary/90 text-primary-foreground text-xl px-8 py-6 font-bold"
+              className="bg-secondary hover:bg-primary/90 text-primary-foreground text-xl px-8 py-6 font-bold"
             >
               <Phone className="mr-2 h-5 w-5" />
               Pozovi i poruči
@@ -40,7 +40,7 @@ export default function Home() {
               variant="outline"
               className="border-2 border-foreground text-foreground hover:bg-foreground hover:text-background text-xl px-8 py-6 font-bold bg-transparent"
             >
-              Pogledaj meni
+              Pogledaj meni opaaaa
             </Button>
           </div>
         </div>
@@ -57,7 +57,7 @@ export default function Home() {
           <Card className="bg-card border-border p-6 hover:border-primary transition-colors">
             <h3 className="font-[family-name:var(--font-bebas)] text-3xl mb-4 text-foreground">Pljeskavice</h3>
             <div className="space-y-3">
-              <MenuItem name="Bum pljeskavica" price="690" highlight />
+              <MenuItem name="Bum pljeskavica 111111111" price="690" highlight />
               <MenuItem name="Leskovačka pljeskavica" price="650" />
               <MenuItem name="Gurmanska pljeskavica" price="750" />
               <MenuItem name="Klasična pljeskavica" price="550" />
